@@ -47,11 +47,21 @@ Say any of these, or just ask a question that fits:
 - If a widget preview fails on web, your Muse should fall back to a
   native list / map card or short text with the key numbers.
 
+## Examples
+
+San Francisco in a day, as a working route card plus a map, from the
+skill's own demo:
+
+![San Francisco day route card](examples/san-francisco-day-card.png)
+
+![San Francisco map](examples/san-francisco-map.png)
+
 ## Files
 
 - `SKILL.md` — the skill itself, the only file Muse needs.
 - `references/widget-templates.md` — copy-ready patterns: calculator
   with chart, route page, step drawing, comparison table, flashcards,
   dashboard.
+- `examples/` — screenshots of the skill in action.
 
 License: MIT. You may copy, adapt and share this skill freely.
