@@ -1,4 +1,4 @@
-# intelligent-ui skill for Muse
+# ChatGPT Intelligent UI, now in Muse
 
 Answer in Intelligent UI style, like thesysdev/open-intelligent-ui:
 a composed interactive page instead of plain text. Maps for places,
